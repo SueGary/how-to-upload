@@ -7,5 +7,6 @@ namespace _123.UIL
 {
     class Class1
     {
+	 debug
     }
 }

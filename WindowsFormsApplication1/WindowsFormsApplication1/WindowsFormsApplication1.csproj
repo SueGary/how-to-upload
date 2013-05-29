@@ -53,11 +53,11 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="Form2.cs">
+    <Compile Include="G.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form2.Designer.cs">
-      <DependentUpon>Form2.cs</DependentUpon>
+    <Compile Include="G.Designer.cs">
+      <DependentUpon>G.cs</DependentUpon>
     </Compile>
     <Compile Include="G盘.cs">
       <SubType>Form</SubType>

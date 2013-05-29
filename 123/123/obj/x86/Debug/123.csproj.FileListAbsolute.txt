@@ -1,0 +1,8 @@
+F:\how-to-upload\123\123\bin\Debug\123.exe
+F:\how-to-upload\123\123\bin\Debug\123.pdb
+F:\how-to-upload\123\123\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\how-to-upload\123\123\obj\x86\Debug\_123.Properties.Resources.resources
+F:\how-to-upload\123\123\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\how-to-upload\123\123\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\how-to-upload\123\123\obj\x86\Debug\123.exe
+F:\how-to-upload\123\123\obj\x86\Debug\123.pdb

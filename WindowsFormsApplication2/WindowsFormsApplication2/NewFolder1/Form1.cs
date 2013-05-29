@@ -7,11 +7,11 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
-namespace WindowsFormsApplication1.UIL
+namespace WindowsFormsApplication2.NewFolder1
 {
-    public partial class _123 : Form
+    public partial class Form1 : Form
     {
-        public _123()
+        public Form1()
         {
             InitializeComponent();
         }

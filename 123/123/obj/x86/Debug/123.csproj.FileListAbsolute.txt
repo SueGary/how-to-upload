@@ -8,3 +8,11 @@ F:\how-to-upload\123\123\obj\x86\Debug\123.exe
 F:\how-to-upload\123\123\obj\x86\Debug\123.pdb
 G:\how-to-upload\123\123\obj\x86\Debug\123.exe
 G:\how-to-upload\123\123\obj\x86\Debug\123.pdb
+G:\how-to-upload\123\123\bin\Debug\123.exe
+G:\how-to-upload\123\123\bin\Debug\123.pdb
+G:\how-to-upload\123\123\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\how-to-upload\123\123\obj\x86\Debug\_123.Properties.Resources.resources
+G:\how-to-upload\123\123\obj\x86\Debug\_123.UIL._2.resources
+G:\how-to-upload\123\123\obj\x86\Debug\_123.UIL.Form1.resources
+G:\how-to-upload\123\123\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\how-to-upload\123\123\obj\x86\Debug\GenerateResource.write.1.tlog

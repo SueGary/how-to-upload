@@ -60,6 +60,7 @@
     <Compile Include="UIL\2.Designer.cs">
       <DependentUpon>2.cs</DependentUpon>
     </Compile>
+    <Compile Include="UIL\Class1.cs" />
     <Compile Include="UIL\Form1.cs">
       <SubType>Form</SubType>
     </Compile>
